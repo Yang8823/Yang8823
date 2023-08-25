@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Year 2 Computer Science with AI student
+### Hi there 👋 I am Yang, currently a Year 2 Computer Science with AI student
 
 ![](https://komarev.com/ghpvc/?username=Yang8823&label=Profile+Views)
 
