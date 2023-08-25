@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Yang8823&label=PROFILE+VIEWS)
 <!--
 **Yang8823/Yang8823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
