@@ -4,6 +4,11 @@
 
 ### Social Media
 
+### Skills
+<p>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
 <!--
 **Yang8823/Yang8823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
