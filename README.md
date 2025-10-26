@@ -1,1 +1,1 @@
-### Hi there 👋 I am Yang, Currently, I am interested in abstract visual reasoning (AVR) and time series forecasting (TSF) and participating in Kaggle competitions. If you share similar interests or would like to team up for a competition, feel free to connect or reach out!
+### Hi there 👋 I am Yang. Currently, I am interested in abstract visual reasoning (AVR) and time series forecasting (TSF) and participating in Kaggle competitions. If you share similar interests or would like to team up for a competition, feel free to connect or reach out!
